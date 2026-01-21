@@ -1,0 +1,12 @@
+name = "my_ada_project"
+description = "testingAda"
+version = "0.1.0-dev"
+
+authors = ["s s"]
+maintainers = ["s s <simongottfridsandberg@gmail.com>"]
+maintainers-logins = ["sigotsan"]
+licenses = "MIT"
+website = "testing, ada"
+tags = []
+
+executables = ["my_ada_project"]
